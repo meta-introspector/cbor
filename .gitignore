@@ -6,3 +6,4 @@ tokamak.toml
 *.iml
 examples/ferris.cbor
 .cargo/config
+process-repo.log
